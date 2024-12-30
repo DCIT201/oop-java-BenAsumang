@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.RentalAgencyTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-12-30T18:27:56" hostname="hp-laptop-15-gw0xxx" time="0.012">
+  <properties/>
+  <testcase name="addVehicle()" classname="org.example.RentalAgencyTest" time="0.001"/>
+  <testcase name="rentVehicle()" classname="org.example.RentalAgencyTest" time="0.007"/>
+  <testcase name="returnVehicle()" classname="org.example.RentalAgencyTest" time="0.002"/>
+  <system-out><![CDATA[John Doerented Mercedes-AMG (ID: E53)
+John Doerented Mercedes-AMG (ID: E53)
+Mercedes-AMG (ID: E53)has been returned.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

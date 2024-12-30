@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.R_TransactionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-12-30T18:27:56" hostname="hp-laptop-15-gw0xxx" time="0.038">
+  <properties/>
+  <testcase name="testToString()" classname="org.example.R_TransactionTest" time="0.029"/>
+  <testcase name="testGetRentalDays()" classname="org.example.R_TransactionTest" time="0.001"/>
+  <testcase name="testGetVehicle()" classname="org.example.R_TransactionTest" time="0.002"/>
+  <testcase name="testGetCustomer()" classname="org.example.R_TransactionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

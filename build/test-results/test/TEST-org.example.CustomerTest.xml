@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CustomerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-12-30T18:27:56" hostname="hp-laptop-15-gw0xxx" time="0.009">
+  <properties/>
+  <testcase name="testGetLoyaltyPoints()" classname="org.example.CustomerTest" time="0.001"/>
+  <testcase name="testRentVehicle()" classname="org.example.CustomerTest" time="0.002"/>
+  <testcase name="testGetName()" classname="org.example.CustomerTest" time="0.001"/>
+  <testcase name="testReturnVehicle()" classname="org.example.CustomerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
